@@ -1,0 +1,262 @@
+.c3 {
+    display: flex;
+    margin-top: 10%;
+    width: 100%;
+    height: 700px;
+}
+
+.c31 {
+    width:50%;
+}
+
+
+.topo {
+    display: flex;
+    width:100%;
+    height:250px;
+    margin-top: 3%;
+}
+
+.curriculo{
+    position: relative;
+    width:25%;
+    height:7%;
+    background:#D9D9D9;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.curriculo2{
+    position: relative;
+    margin-left:3.5%;
+    width:88%;
+    height:28px;
+    background:#D9D9D9;
+    border: 5px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+}
+
+.curriculo2 h3{
+    font-size:x-large;
+    margin: 3%;
+    text-transform: uppercase;
+}
+
+#foto {
+    position: relative;
+    background-color: rgb(0, 0, 0, 0, 0.8);
+    width: 40%;
+    height: 100%;
+    border: 1px solid #D9D9D9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#foto img {
+    position: relative;
+    width: 90%;
+    height: 90%;
+
+}
+
+.azul {
+    position: relative;
+    height: 45%;
+    margin-top: 13%;
+}
+
+#azul1{
+    display: flex;
+    align-items: center;
+    position: relative;
+    border: 5px solid #020088;
+    height: 11%;
+    width: 97%;
+    background-color: rgba(0, 0, 0, 0.6);
+
+}
+
+#azul1 h3{
+    font-size:x-large;
+    color: #D9D9D9;
+    text-transform: uppercase;
+    margin-left: 1%;
+}
+
+#azul2{
+    background-color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #020088;
+    width: 97%;
+    height:80%;
+    margin-top: 1%;
+}
+
+#azul21{
+    border: 5px solid #020088;
+    width:97%;
+    height: 90%;
+}
+
+#azul21 p{
+    margin: 1%;
+    color: #D9D9D9;
+    font-size:150%;
+
+}
+
+#ev4 {
+    position: relative;
+    top:8%;
+    left: 10%;
+    width:32%;
+    height:80%;
+    border:1px;
+    border-style:solid;
+    border-color:#D9D9D9;
+}
+
+#ev5 {
+    position: relative;
+    top:-7%;
+    left: -7%;
+    width: 100%;
+    height:100%;
+    border:1px;
+    border-style:solid;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-color:#D9D9D9;
+    color:#D9D9D9;    
+}
+
+#ev5 p {
+    position: relative;
+    left: 5%;
+    top: 5%;
+}
+
+.c32 {
+    width: 50%;
+
+}
+
+#pastas {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+    position: absolute;
+    right: 3%;
+}
+
+#hardskill {
+    position: relative;
+    top: 12%;
+    left: 1.5%;
+    width: 100%;
+    height: 50%;
+}
+
+#topo {
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    align-items: center;
+}
+
+
+
+.rec4{
+    position: relative;
+    top:1%;
+    width:97%;
+    height:87%;
+    border:5px;
+    border-style:solid;
+    border-color:#D9D9D9;
+    background:#D9D9D9;
+}
+
+.rec5 {
+    position: relative;
+    height:90.5%;
+    background:#000;
+    color:#D9D9D9;
+    font-size:150%;
+    display: flex;
+    align-items: center;
+}
+
+.rec5 p {
+    position: relative;
+    left: 5%;
+}
+
+#softskill {
+    position: relative;
+    width: 100%;
+    height: 99%;
+    right: 9%;
+    top: -7%;
+    width: 105%;
+}
+
+.rec7 {
+    z-index: 1;
+    position: relative;
+    left:50%;
+    width:45%;
+    height:323px;
+    margin-top: 2%;
+    background-color: #000;
+    border:5px;
+    border-style:solid;
+    border-color:#D9D9D9;
+}
+
+.rec8 {
+    z-index: 1;
+    position: relative;
+    top:-6%;
+    right: 12.5%;
+    width:105%;
+    height: 99%;
+    background-color: #000;
+    border:5px;
+    border-style:solid;
+    border-color:#D9D9D9;
+}
+
+.rec9 {
+    position: relative;
+    top:1%;
+    width:97%;
+    height:100%;
+    border:5px;
+    border-style:solid;
+    border-color:#D9D9D9;
+    background:#D9D9D9;
+}
+
+.rec10 {
+    position: relative;
+    height:91%;
+    background:#000;
+    color:#D9D9D9;
+    font-size:150%;
+    display: flex;
+    align-items: center;
+}
+
+.rec10 p {
+    position: relative;
+    left: 5%;
+}
+
